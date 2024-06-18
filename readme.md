@@ -3,13 +3,12 @@
 This project aims to optimize the hyperparameters of a RandomForest Classifier using a custom approach based on Kernel Density Estimation (KDE) and quantile segmentation.
 
 ## Table of Contents
-- [Project Description](#project-description)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Example](#example)
-- [Visualization](#visualization)
-- [Results](#results)
-- [Contributing](#contributing)
+- [Data Preperation](#project-description)
+- [Objective function creation](#installation)
+- [Search Space Formation](#usage)
+  - [Sampling Initial trials ](#example)
+- [HPO teachnique](#visualization)
+- [Graphs Related](#results)
 - [License](#license)
 
 ## Project Description
